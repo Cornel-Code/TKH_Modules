@@ -1,0 +1,51 @@
+1) In your own words, what is a computer really doing whenever you type a letter on a
+keyboard? (150 words max)
+
+When one types a letter into a keyboard, the computer, which is always waiting for a signal from the keyboard (input), accepts the key-press and searches for the data representation of "a" in memory. The computer now knows to find the corresponding image (via a lookup table) to be printed on the screen for the user to see (output).
+
+2) In your own words, how do computers use input and output to create experiences? (250
+words max)
+
+Users provide input to the software, and the software reacts accordingly. It either executes a desired command, or requests more actions from the user. This creates a sort of call and response feedback loop between human and machine. 
+
+3) Explain why software products are essentially “infinitely reproducible nothings. ” (150
+words max)
+
+Software products are more like a set of instructions (to a computer) than a product like say, a desk, or chair. If you build the program once, you can sell it forever, thus being infinitely repoducible. So, by repeatedly selling something, which does not exist as a standalone product (one will need a computer after all) which could be sold for all eternity, having only been created once, it is an infinitely reproducible nothing. 
+
+4) Explain in your own words how code becomes software. (150 words max)
+
+Code becomes software when the computer interprets your written code, thanks to a compiler, and then carries out those instructions.
+
+5) An algorithm is a method or prescription for how to carry out an operation, or set of operations. Gaussian Elimination from Linear Algebra is a good example. 
+
+6) Explain the DRY principle. (100 words max)
+
+A colloquialism in the programming world, "DRY" stands for "Don't Repeat Yourself"; it's main philosphy seems to be efficiency and brevity. It stresses not repeating one's self in code, but rather, having the computer do the redundant tasks. 
+
+7) In your own words, what is object-oriented programming? (100 words max)
+
+Object-Oriented Programming is a way of organizing code. Objects have certain properties which are fairly consistent; likewise, created objects like classes, and subclasses also have consistent properties. Say we create a class "Dog", we can give it set properties like "Fur type", "bark frequency", etc. We simply use the dog class each time we need a dog object. 
+
+8) In your own words explain data and how it relates to code. (100 Words max)
+
+Data, simply put, is information stored somewhere - where it comes from is irrelevant. Code acts on data, either that which is received from a user, or that which is already present on the machine, the cloud, etc. One could say that software must act on some data in order for it to truly do anything. 
+
+
+9) What is a framework? (150 words max)
+
+A framework is somewhat of a scafold for code, allowing you to build on a sort of predetermined template which assumes you will do certain things, and so they have already been set up, waiting for you to essentially "finish" the project, or build a more personalize, specific verstion of, say, a "website", or "database". 
+
+
+10) What is debugging? (150 words max)
+
+Debugging is simply cleaning up one's code so that it runs well, and fixing any issues present in the code. 
+
+11) Now, with more of an understanding of what code is, why do you want to learn how to
+code? (500 words max)
+
+I want to learn to code so that I can use the superior processing power of computers in order to understand the human brain. In the analysis portion of Neuroscience experiments, one must use advanced statistical techniques in combination with differential equations and linear algebra.
+
+These techniques work best when the data is first "treated", then organized into appropriate data structures prior to analysis. Programming makes organizing and analyzing the hundreds of gigs of scientific data produced by Academia each year much easier than if one were to analyze the data manually. 
+
+Data Science and Machine Learning techniques also allow us to find patterns in the data that a human simply could not find on their own, unless given their entire lifetime, and even then, there is no guarantee. 
