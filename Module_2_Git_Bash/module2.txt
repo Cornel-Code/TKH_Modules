@@ -1,0 +1,6 @@
+1) Git is a version control system for code. It is different from Github, which is one of many platforms on which individuals, but more often, teams, can host and save their code. Collaborative work is made much easier with this code-change-tracking system. 
+
+2) The terminal is a tool rather than an app, which a GUI could be considered to be. The terminal allows the user to communicate to the machine directly through commands, rather than having to go through potentially clunky UI in order to do something. 
+
+3) Version control makes it possible to (a) roll back to previous versions of projects that are known to be stable, while (b) allowing developers to take risks and explore via code branches which do not affect the main product. Lastly, (c) version control allows one to document the history of changes made to files along with who made them. 
+
