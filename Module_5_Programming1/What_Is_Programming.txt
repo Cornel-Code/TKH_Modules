@@ -1,0 +1,26 @@
+1) Explain in your own words what is Python? (300 Words)
+
+Python is a high level, object oriented programming language. Python supports many external modules and packages, making it useful for different types of projects, from app development, to research computing. Python uses indentation to create blocks of code; this lends itself to high readability, and easier future codebase maintenance. 
+
+2) Explain Data Python Data Types (200 Words)
+
+Python has the following basic data types: 
+
+Int, Float, Str, and Bool.
+
+Ints are integers; whole numbers with no decimal accuracy beyond that. 
+Integer division such as "2/3" would result in an answer of 0, while a float division of "2.0/3.0" would result in an answer of 0.666.
+
+Str(ings) are simply characters like "c", "a", "t", strung together to create strings like "cat". When input is received from a user, it is often in the form of a string, even numbers come in as strings and are usually in need of casting such as Int("age").  
+
+Bool(eans) are simply true or false values represented by 1, and 0 respectively. True and False in Python must be capitalized in order for them to be interepreted as such. 
+
+3) Explain in your own words What is a function? ( 250 Words )
+
+A function is a block of code which can be reused, simply by calling the function with the appropriate input (sometimes none). The code can be used in multiple projects should the need arise. Functions make code more readable, and can even make debugging easier, depending on where the function is written up - say, its own file, or one it shares with a few other functions, rather than a massive, several hundred line of code file with no functions.
+
+4) Explain the Python print statement (250 Words)
+
+The python print statement acts as a function which prints whatever it is given as an argument to the screen for viewing. 
+
+Complete the attached notebook named pre_training.ipynb
